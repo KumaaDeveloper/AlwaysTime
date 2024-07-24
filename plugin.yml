@@ -1,0 +1,6 @@
+name: AlwaysTime
+version: 1.0.0
+api: [5.0.0]
+main: KumaDev\AlwaysTime\Main
+author: KumaDeveloper
+description: This plugin sets a specified time in configured worlds and keeps it constant.
